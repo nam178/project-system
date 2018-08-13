@@ -205,6 +205,15 @@ namespace Microsoft.VisualStudio.ProjectSystem.VS.PropertyPages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Incorrect method used to set or get property value..
+        /// </summary>
+        public static string IncorrectMethodUsedToAccessPropertyValue {
+            get {
+                return ResourceManager.GetString("IncorrectMethodUsedToAccessPropertyValue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Launch:.
         /// </summary>
         public static string Launch {

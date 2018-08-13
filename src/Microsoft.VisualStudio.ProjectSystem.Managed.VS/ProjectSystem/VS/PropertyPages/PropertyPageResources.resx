@@ -231,4 +231,7 @@
   <data name="ProfileName" xml:space="preserve">
     <value>Profile name:</value>
   </data>
+  <data name="IncorrectMethodUsedToAccessPropertyValue" xml:space="preserve">
+    <value>Incorrect method used to set or get property value.</value>
+  </data>
 </root>
